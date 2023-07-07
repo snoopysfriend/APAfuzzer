@@ -1,3 +1,4 @@
 # APAfuzzer
-Blackbox IoT fuzzer 
-Code's would updated soon
+Blackbox IoT fuzzer  
+
+Code would updated soon
